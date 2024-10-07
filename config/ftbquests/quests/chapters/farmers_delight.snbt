@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farmers_delight"
+	group: ""
+	icon: "farmersdelight:cooking_pot"
+	id: "75389220A42ECFF5"
+	order_index: 4
+	quest_links: [ ]
+	quests: [ ]
+	title: "Farmers Delight"
+}

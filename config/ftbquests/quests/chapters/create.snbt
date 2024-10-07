@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create"
+	group: ""
+	icon: "create:mechanical_arm"
+	id: "58C96680803367FB"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Create"
+}

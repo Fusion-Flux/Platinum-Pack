@@ -1,0 +1,13 @@
+name = "Wood you Dye"
+filename = "wood_you_dye-1.1.0+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lROGvk9y/versions/JBCiWJk7/wood_you_dye-1.1.0%2B1.20.1-forge.jar"
+hash-format = "sha1"
+hash = "23187ad8352dc080c877fea4f7f8d520a115b28f"
+
+[update]
+[update.modrinth]
+mod-id = "lROGvk9y"
+version = "JBCiWJk7"
