@@ -809,573 +809,9 @@ file = "config/yacl.json5"
 hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
 
 [[files]]
-file = "mods/.connector/SofterPastels-0.4.0$arrp-0.6.7_mapped_srg_1.20.1.jar"
-hash = "2b7a5cc48e89f3d52c3934c13aafbf19483a91033850d416c9141c5d1faf22ef"
-
-[[files]]
-file = "mods/.connector/SofterPastels-0.4.0$arrp-0.6.7_mapped_srg_1.20.1.jar.input"
-hash = "97ac59c0a97d261899a9fd1906fd8a35b5f49917e2081fcda407402edb6b1ddf"
-
-[[files]]
-file = "mods/.connector/SofterPastels-0.4.0_mapped_srg_1.20.1.jar"
-hash = "e09ab2f91590aa9d42702e53e3bbfe4aab57d50a91733747d2be589c01725879"
-
-[[files]]
-file = "mods/.connector/SofterPastels-0.4.0_mapped_srg_1.20.1.jar.input"
-hash = "2434ada3dece3fa932fa6d9b2f2f56bac4231bac19a1d38faeba8b322a601c93"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar"
-hash = "d1c0b9159d30d3677bacc5925843fa59f53f2b8a5d6c592d5e6e7543708cc856"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20_mapped_srg_1.20.1.jar"
-hash = "588b10f9d196d8af4dde54f0331fdb74208cb0ea2e466854269d47e5faf7c406"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20_mapped_srg_1.20.1.jar.input"
-hash = "cbf60265295ac5a43b09d8798d4624bd9108f29dddfc4cf42531c7725e640d4e"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20_mapped_srg_1.20.1.jar"
-hash = "446f8ec40ae4b7dfac31ad9ac3204bb7c1b56188b6edf20e44c0f4ed0addc9ef"
-
-[[files]]
-file = "mods/.connector/antique-atlas-2.9.17+1.20_mapped_srg_1.20.1.jar.input"
-hash = "ea5cb5c96de2ba72af347657fc79c851e14ab2d58779c9536f8cacdf8e81d367"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$asyncutil-0.1.0_mapped_srg_1.20.1.jar"
-hash = "7bae0c669c2b6db0fdac2dad1c11d7b35282103ff7c6b11327f0304619298bcc"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$asyncutil-0.1.0_mapped_srg_1.20.1.jar.input"
-hash = "6761670e787ad2d5bf8a890ca99999c7b2ec06f8241c0ede5b3d1c6e3118d4e6"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-base-mc1.20.1-0.2.0-c3me-alpha.11.61-all_mapped_srg_1.20.1.jar"
-hash = "328d055afa2773302f0ab399dc45ae6a4691e96beb87deb88d0147e4f33c393b"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-base-mc1.20.1-0.2.0-c3me-alpha.11.61-all_mapped_srg_1.20.1.jar.input"
-hash = "ee09e39c898b29e0a7dbb6006f7daaa4d096b1a87567d5eecfc1c115d7557e2e"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-client-uncapvd-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "b9b742307f98aea4605c8123521f4390878b0f1796fd3424e6ca653ac67aecea"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-client-uncapvd-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "9cacac1214fadb4588da81783e1e419f928f577fcd79351054254df404737f46"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "ee453afaf34f2e055ee2ab737890074643f8a6aefc75d9b1f83f31907c5728c9"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "bd6b234e05c15364cbb449040f66a230062a23607be67be8eece7ce62e4d1bab"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "e9aff5b2c68bb165c0b26bec70c576ddc9dbe02ff4fb517b23ee821525455785"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "b1a05126e9c21fce2d1966c2b8d2a0ef94f1423157f0f259a0cb970e753b3fa0"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "a4bbc75b3d77605484661963f25f52fcabf45fda04ee9fa2de09d3bef88abc74"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "51e1962ea75c188954009be4ede174507560a0a4fd8ea088d88602e973098020"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "940fddda1f132fed404c3aedc2d6097b0fad192590b832f7d9de21013734292d"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "5d792ba68fa8c462832147d5ea07e9b9f5c33d171b6342ae254cd90d13b7ce9a"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-notickvd-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "9f6233df755d9043fee3dfb2f0908c965209e2080ef287fb057105b847cb4065"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-notickvd-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "653a1c6cdf4884eff8a4bfc4f9fa6d41d8495cf4046ffd9ece741c6332be4f64"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-allocs-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "bd2e65d3d8d542e2367cfb5ac658302f125d919606ba09ce7ff57c1cdef60b11"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-allocs-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "2d8d18547db328eeafdfdc0eaa658d2ff3fcda6c0dfb52ce0cc122ddc7e758ce"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunk-access-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "935c045a0fffaadd54a986188da160ee9bcdbd8ffdcaa20b5afa42dda9b660e4"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunk-access-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "a0402487ad500dbaa8cb4c1b334cc887472c082a33a706ae0fe8e1f571cea5ef"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "b54291317aa8db82e8ed0123fd39c9ae9aa61abd671ff656005e37dfd68dd703"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "3e0e839095bce2c2359b4903a83241a8550e0979b1697aa105f123912c7f9f2a"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-math-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "021586d6f48a4974d64c90c53fffed29c362dea49d492fe8097457b9f622de6f"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-math-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "30a2462a88bfaa3d585bb750b92b44d4765838e0b1a44a806d707731e27a1233"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-scheduling-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "629cba1e14a7ce2301203b057a806aa53e05780e7c63db620b7000aafb5a5be2"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-scheduling-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "09a4b8d040045b914b1529c3925e27b7c8ee17676091727496a5c35185c52363"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-general-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "87be3b13ff6c1ec93e32f8043b391ae7b9ab4b0ce94de16b2985947c08db7b41"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-general-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "9664570c1cc2e73c1a9fbfb51bc31897e1b0dd0a5db86ce92f87fc62cb92ff6b"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "21112f56bd4ae418278cac46b258382bd0cd4dd94a8d44bfcc564fbde461d032"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "5c0ae731015e853b9d3ac9843be87206555cb49fecdbce2486b34f578be3600e"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "243bcfa83bfb48f0d88d02c18d8a69c4f875cee23dfb3f4a0a60d56b304d749f"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "c539ffb35db2869b1e1223be956df27cc8e1323523d36624f03f982f6dccdc24"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "5ef7df020544be2eeb480a9e6701b49392d892257c3f27de9fa4654a88c1c86a"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "da95b64b1f71317b610f64ded91c60dcd0fdcf6b2e6ca594d8ccd679dc2d3b9d"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-server-utils-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "f59decb33db106088f44f6006b2f62ebb6344105f81ca2cd29c6773227f85194"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-server-utils-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "57a651cf6e43f92b7851be715f5f31e7fcb88931380cd9005015713e3191aa99"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "b233ddfa463795135dc4e4e15dbb608e3f574bbc7924be7166761e0f2310bb48"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "b6984b29883b8959ece732dd16bafa6cc92daade7f2a62ba0ef3a401b9e0e66f"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-lighting-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "828690f1a2488e8edd9b639acff758b9cd7c45bfff01b25561a7400c3d333961"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-lighting-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "5e3d5a295ada5ded6a78ad45a807e1c7db99f7c079592702f03d6cfefb5bd22f"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-worldgen-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "a3c2f2236090e28d3b682e8ae9974decfcd8d94e998f660bbbfaed26bb2ae16b"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-worldgen-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "371c4fe189d2c710ba433b5880c875629dcc32816925aa575ed67d1957f3b4f0"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$core-3.6.5_mapped_srg_1.20.1.jar"
-hash = "84e7e078c7cad15d39cb1b4f953a4629426c39352ffac676d77be3c62f61dcdc"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$core-3.6.5_mapped_srg_1.20.1.jar.input"
-hash = "5ea3a9a41373821c42368d72b1e02470a323be02ea11f6cd8d19b98c6c60bafa"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$exp4j-0.4.8_mapped_srg_1.20.1.jar"
-hash = "5e946780d3e5b51bb7aa29005d1cb5fc8d8c0c13c3463a0ad19ad6f29526b36f"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$exp4j-0.4.8_mapped_srg_1.20.1.jar.input"
-hash = "b6d0ee606cce94baf0a69d9b23a413a5e999aeaffba63ebed1dbe1f3099c9bea"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$threadly-7.0_mapped_srg_1.20.1.jar"
-hash = "b289784945f0be11b3afc2dad31fd84dfc14743916e6eed37b7aee74c904d2ee"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$threadly-7.0_mapped_srg_1.20.1.jar.input"
-hash = "89f6bb892a0155f3499c38d1f848dcaaee841af5e58e8b6d41e41dd25d32ad93"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$toml-3.6.5_mapped_srg_1.20.1.jar"
-hash = "7f82eaec19e3da1416c412a5ba4ca01fa606fd3ac73dc344c3c3f80bd1489b27"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$toml-3.6.5_mapped_srg_1.20.1.jar.input"
-hash = "e8aeb817a5c680ffb0081958bc0240e407a98ac915555d251884b0d39db93428"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar"
-hash = "e76a67c968ba3427654c7ec90f8f102305019d495dad451c4cbd900685e5bfee"
-
-[[files]]
-file = "mods/.connector/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61_mapped_srg_1.20.1.jar.input"
-hash = "da35f7010b1d7e120d38972b6225e6b3de2d56389335c7af750589b42c76d97f"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar"
-hash = "fbf964e44bbc0a9750024d6e7253f696cee9b36173b131fa91c42263b8b465d3"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.23+1.20_mapped_srg_1.20.1.jar"
-hash = "eaa8a711323caf9a433b683314f9a5a7852594b5ee455a69744d2ed025b71e5d"
-
-[[files]]
-file = "mods/.connector/surveyor-0.6.23+1.20_mapped_srg_1.20.1.jar.input"
-hash = "cbf60265295ac5a43b09d8798d4624bd9108f29dddfc4cf42531c7725e640d4e"
-
-[[files]]
-file = "mods/.connector/surveystones-1.3.1+1.20_mapped_srg_1.20.1.jar"
-hash = "9488dfdcdc9df45756c2c1b06dc2ca726ae9256633f44dcdb7395071af06b9e5"
-
-[[files]]
-file = "mods/.connector/surveystones-1.3.1+1.20_mapped_srg_1.20.1.jar.input"
-hash = "a3c3c2a6372f838d7e625b4fcb1d21f884dc823ca823a009f57d0412e1dca1fc"
-
-[[files]]
-file = "mods/.connector/temp/HeraclesForBlabber-0.6.3+sha.8d1d1c1$kinecraft-serialization-1.3.0-fabric.jar"
-hash = "696fd9c41a7156a6432c7a93682fc5a7be00c14a2d02ac5a8a1eeed35d7d1c40"
-
-[[files]]
-file = "mods/.connector/temp/HeraclesForBlabber-0.6.3+sha.8d1d1c1$kinecraft-serialization-1.3.0-fabric.jar.input"
-hash = "0f125ae4571fe5a1d14324dee4844cc379ba084cba78ab9ba3d8175760bccc3e"
-
-[[files]]
-file = "mods/.connector/temp/SofterPastels-0.4.0$arrp-0.6.7$fabric-api-base-0.4.19+8d1895cf72.jar"
-hash = "246d7fb90576a85b83eb31d57a0707fc905f56eda175b80ce331d66e7dea7a5a"
-
-[[files]]
-file = "mods/.connector/temp/SofterPastels-0.4.0$arrp-0.6.7$fabric-api-base-0.4.19+8d1895cf72.jar.input"
-hash = "2a8a1cd5b94312e14d8b3a262c6ff8175b34c9ff4051fd547a3f0452ddea036d"
-
-[[files]]
-file = "mods/.connector/temp/SofterPastels-0.4.0$arrp-0.6.7.jar"
-hash = "8b5dc560e3f2c8a8565df04a95eaacadf9e21811bccc008b1d4cfa65bfa63cfc"
-
-[[files]]
-file = "mods/.connector/temp/SofterPastels-0.4.0$arrp-0.6.7.jar.input"
-hash = "97ac59c0a97d261899a9fd1906fd8a35b5f49917e2081fcda407402edb6b1ddf"
-
-[[files]]
-file = "mods/.connector/temp/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/temp/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
-
-[[files]]
-file = "mods/.connector/temp/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20.jar"
-hash = "ed8f7a1a1b69e435fbfe7280f42868c7918f6b684af40a0e93eaf0bd0e471cf1"
-
-[[files]]
-file = "mods/.connector/temp/antique-atlas-2.9.17+1.20$surveyor-0.6.23+1.20.jar.input"
-hash = "cbf60265295ac5a43b09d8798d4624bd9108f29dddfc4cf42531c7725e640d4e"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$asyncutil-0.1.0.jar"
-hash = "b4392bcb4ac847f72dd383150dc909cb3f9982289bcd7fa6701ca8a523e84cad"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$asyncutil-0.1.0.jar.input"
-hash = "6761670e787ad2d5bf8a890ca99999c7b2ec06f8241c0ede5b3d1c6e3118d4e6"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-base-mc1.20.1-0.2.0-c3me-alpha.11.61-all.jar"
-hash = "3709b360d2e9a1cb4d70d45fd938b16042a7ce9634af4c259359372f1519308b"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-base-mc1.20.1-0.2.0-c3me-alpha.11.61-all.jar.input"
-hash = "ee09e39c898b29e0a7dbb6006f7daaa4d096b1a87567d5eecfc1c115d7557e2e"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-client-uncapvd-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "40a89fd25e7f16daac6a60fc69b087ddaf7f4f5a78c5ac9528e870d741ff46b6"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-client-uncapvd-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "9cacac1214fadb4588da81783e1e419f928f577fcd79351054254df404737f46"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "aedea46435fa021c91f974d3c61c37b1ab8431184c2f3981feeb4dfd48613038"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-chunkio-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "bd6b234e05c15364cbb449040f66a230062a23607be67be8eece7ce62e4d1bab"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "9c1f4feafc1730e0b3f70c726656a044897bd9206aae53429364c52a3e82fd2a"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-general-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "b1a05126e9c21fce2d1966c2b8d2a0ef94f1423157f0f259a0cb970e753b3fa0"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "edd8a638fb3e1a44746fcb62193862269222cfcafd9dc182d254b01638819d90"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-threading-issues-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "51e1962ea75c188954009be4ede174507560a0a4fd8ea088d88602e973098020"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "608264a66e3e0ea4894e2290f70e4e3a2bcba082272481ce8beba857a34b9d66"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-fixes-worldgen-vanilla-bugs-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "5d792ba68fa8c462832147d5ea07e9b9f5c33d171b6342ae254cd90d13b7ce9a"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-notickvd-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "55f047631477be6d9c379c80c2e0e33ef50d571bcb035f254fb742265c752389"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-notickvd-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "653a1c6cdf4884eff8a4bfc4f9fa6d41d8495cf4046ffd9ece741c6332be4f64"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-allocs-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "74e2cc6fe890dc224d628ecfb1f81c6487aa49aabb85a7c20199210eb36f9120"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-allocs-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "2d8d18547db328eeafdfdc0eaa658d2ff3fcda6c0dfb52ce0cc122ddc7e758ce"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunk-access-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "d3c4dcbc6a1505b6a7fb6b5ca0d944619da3e11e8952667867b5ec341227db8b"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunk-access-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "a0402487ad500dbaa8cb4c1b334cc887472c082a33a706ae0fe8e1f571cea5ef"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "707923888b4366879ca06a610b227af354cee7c446459d5a83fa373b9bd87b30"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "3e0e839095bce2c2359b4903a83241a8550e0979b1697aa105f123912c7f9f2a"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-math-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "6bf126f9cec5e9c04ca1c63bcf39bc8c5ef87796b5b5f735bc3e2f48cf94b40a"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-math-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "30a2462a88bfaa3d585bb750b92b44d4765838e0b1a44a806d707731e27a1233"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-scheduling-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "47fd4e8eb8a60fa4ba79fb7aa0b78a6abf512e7d8b9c92b251e67d5db26581d9"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-scheduling-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "09a4b8d040045b914b1529c3925e27b7c8ee17676091727496a5c35185c52363"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-general-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "0f5ab8a0f298a87f2a5e4f2157f9ffd942f7ac296e683b2dca38d91c69b3036b"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-general-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "9664570c1cc2e73c1a9fbfb51bc31897e1b0dd0a5db86ce92f87fc62cb92ff6b"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "b0a98402b4313d6a98c2aba8adb431902a6881e8d4dc05242b1161a8ccf0d4f6"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-opts-worldgen-vanilla-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "5c0ae731015e853b9d3ac9843be87206555cb49fecdbce2486b34f578be3600e"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "28acced5f5687640ef6301a550560fc6bd7a2f807ecb11ccca6e7559c423adca"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunk-serializer-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "c539ffb35db2869b1e1223be956df27cc8e1323523d36624f03f982f6dccdc24"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "bce18983cad0bb251b555efa6046eadbd9f91153b5c05fa9d895d33c92c0b406"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-rewrites-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "da95b64b1f71317b610f64ded91c60dcd0fdcf6b2e6ca594d8ccd679dc2d3b9d"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-server-utils-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "30ebe9465917d69327325b8a69defa1107d9e584344c7cb1d127672f5499bfc3"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-server-utils-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "57a651cf6e43f92b7851be715f5f31e7fcb88931380cd9005015713e3191aa99"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "f146854b528ddc3f6ba25e080ebb7124e21d9bd6e465157f3ebac445254e07fc"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-chunkio-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "b6984b29883b8959ece732dd16bafa6cc92daade7f2a62ba0ef3a401b9e0e66f"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-lighting-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "2897fd60e015b65988654e93f5b0a78f6e4944677bcf5c26b658f5c1ab1c33c5"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-lighting-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "5e3d5a295ada5ded6a78ad45a807e1c7db99f7c079592702f03d6cfefb5bd22f"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-worldgen-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "155f15cfb02ba09ecc2ed9fc898f73985827c48e8630491ea00aa62108bc8354"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$c2me-threading-worldgen-mc1.20.1-0.2.0-c3me-alpha.11.61.jar.input"
-hash = "371c4fe189d2c710ba433b5880c875629dcc32816925aa575ed67d1957f3b4f0"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$core-3.6.5.jar"
-hash = "395e16f401cdb136eee6f5713e138816ff9748f604dd7495f65f40741048e883"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$core-3.6.5.jar.input"
-hash = "5ea3a9a41373821c42368d72b1e02470a323be02ea11f6cd8d19b98c6c60bafa"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$exp4j-0.4.8.jar"
-hash = "84e5f9c2a71a3d12496668626af4749d3ad78c438ed0d7939714de92b79c119c"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$exp4j-0.4.8.jar.input"
-hash = "b6d0ee606cce94baf0a69d9b23a413a5e999aeaffba63ebed1dbe1f3099c9bea"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$mixinextras-fabric-0.3.6.jar"
-hash = "b22963a59bea6a3fc2c1f8983a5073085c7ca83be46a90d1c005d4431a4e2d47"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$mixinextras-fabric-0.3.6.jar.input"
-hash = "259fc8101ca367291ac7e0d13380d27638c534d53e3c41b1bdbc12f37b1d6343"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$threadly-7.0.jar"
-hash = "e113954811df92b1858d90784955156083b31b10bd2deabb3193c9edfe8bacfa"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$threadly-7.0.jar.input"
-hash = "89f6bb892a0155f3499c38d1f848dcaaee841af5e58e8b6d41e41dd25d32ad93"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$toml-3.6.5.jar"
-hash = "44048fc60ecfb5fe961be66009c06144d20a26d2097ca50ac426a073e6b26704"
-
-[[files]]
-file = "mods/.connector/temp/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61$toml-3.6.5.jar.input"
-hash = "e8aeb817a5c680ffb0081958bc0240e407a98ac915555d251884b0d39db93428"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2.jar"
-hash = "11b99246a5447970dfca076f5f9dc064a44547b3878fb4318e14fd2db290d358"
-
-[[files]]
-file = "mods/.connector/temp/surveyor-0.6.23+1.20$kaleido-config-0.3.1+1.3.2.jar.input"
-hash = "c7b63e1dcd6dce8505cc9813fd5b4b879265c1ce9881bb83c534d9a11eb913dc"
-
-[[files]]
-file = "mods/Connector-1.0.0-beta.46+1.20.1.jar"
-hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
-
-[[files]]
-file = "mods/Controlling-forge-1.20.1-12.0.2.jar"
-hash = "cff8c3426a77f9e7412262b6d79e423979eff3831e010b3b1ea9677e1ecd74cd"
-
-[[files]]
-file = "mods/EBE-1.20-1.20.1-0.9B.jar"
-hash = "74c72558e77f7b4dd53d6e29dd993714b256a5af8488ebc5c14f9f0636af8114"
-
-[[files]]
-file = "mods/Searchables-forge-1.20.1-1.0.3.jar"
-hash = "461add180eb595004d3c9f5ac0ce337752e403077f96b38304800eadf01fb825"
-
-[[files]]
-file = "mods/SofterPastels-0.4.0.jar"
-hash = "7da6ef0c38003161584af7555b458fab5ad3a2869cb6bce9fbe551e57bea31ce"
-
-[[files]]
-file = "mods/TerraBlender-forge-1.20.1-3.0.1.7.jar"
-hash = "db36912df0cc8a91a09ebe0907f13612d53c96ff028b1fc682cfa00e8c5691b5"
-
-[[files]]
-file = "mods/ToadLib-1.20-1.20.4-1.1.5.jar"
-hash = "d596d713b982240261422b12d9d15d51b85a94411ac7dbb634bca3dcab2d0b16"
-
-[[files]]
-file = "mods/aether-1.20.1-1.5.0-neoforge.jar"
-hash = "2709515c1bd100e9882963918812f50d54df44d42f9a153c32b8032362f815a9"
-
-[[files]]
 file = "mods/aether.pw.toml"
 hash = "fbf48d388c506beb1f8562745115dc67b5ca346d0f9872d7c0cfb439bf2d8a7b"
 metafile = true
-
-[[files]]
-file = "mods/antique-atlas-2.9.17+1.20.jar"
-hash = "01591bb26c0ebbb4d0536df6f444884a076aa3508e4a4eded2fdf1a0b0a3db13"
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
@@ -1438,10 +874,6 @@ hash = "64bf8b278979f6e2aa9dc0fb5d2168212bc9337e41fb9a9f7e114fe91695194a"
 metafile = true
 
 [[files]]
-file = "mods/balm-forge-1.20.1-7.3.9-all.jar"
-hash = "a731eb9950b495d2e3973f2fec3eb2f7b6020509e4180661ebb4776a2705182e"
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
@@ -1472,14 +904,6 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
-file = "mods/c3me-fabric-mc1.20.1-0.2.0-c3me-alpha.11.61.jar"
-hash = "99dbce6aa6827a777d78a898cd6b8d7c7d9ae1d1fd41b813750eefaead8c9c8d"
-
-[[files]]
-file = "mods/caelus-forge-3.2.0+1.20.1.jar"
-hash = "43cabe35f0618c0bd01af02e7568ca6f15fd32bb6a90d04c9898bb01e8dc1e81"
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -1500,10 +924,6 @@ hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
 metafile = true
 
 [[files]]
-file = "mods/common-networking-forge-1.0.5-1.20.1.jar"
-hash = "914b0cbd4544ea8be8b3f3ba5cfd94e5efda036613dc0f6cb6321148bbe1c0a9"
-
-[[files]]
 file = "mods/connector.pw.toml"
 hash = "a71da6b2e8a7654cdc2936e0ac684fbcbed513eb07b32f68f39497c27fe0de1d"
 metafile = true
@@ -1512,10 +932,6 @@ metafile = true
 file = "mods/controlling.pw.toml"
 hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
 metafile = true
-
-[[files]]
-file = "mods/corpse-forge-1.20.1-1.0.14.jar"
-hash = "c76d14d0fdd3acd6d947cb0dbeb2a9dd02f1cc8ec10c48d85fbad9fa7425aa76"
 
 [[files]]
 file = "mods/corpse.pw.toml"
@@ -1591,10 +1007,6 @@ metafile = true
 file = "mods/dynamic-fps.pw.toml"
 hash = "2517a20ed69efca449f23a448af7cd8079bf68e47f22fe95cc58cb88a2722d1d"
 metafile = true
-
-[[files]]
-file = "mods/easy-villagers-forge-1.20.1-1.1.23.jar"
-hash = "a2c362d5f0d0fc4e17fa6922b0903e212e1793deb8765e6964458fa5acd5c72d"
 
 [[files]]
 file = "mods/easy-villagers.pw.toml"
@@ -1702,10 +1114,6 @@ hash = "d1bc44dcc16a3b8124ec4841a690c93005bf82e9649fae1e352e2e315a393da5"
 metafile = true
 
 [[files]]
-file = "mods/geckolib-neoforge-1.20.1-4.4.9.jar"
-hash = "104bdd4a42f7c1eee791da3a3e79c1e65bd2318c1cbca38a7152795164bd13af"
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
 metafile = true
@@ -1739,10 +1147,6 @@ metafile = true
 file = "mods/jei.pw.toml"
 hash = "923ccb169b6edccab1a83ec0879d08d53463c4865c58d901bc59bda862dac74d"
 metafile = true
-
-[[files]]
-file = "mods/journeymap-1.20.1-5.10.3-forge.jar"
-hash = "7640a8fdc24ea3988764f774ed1b84cae60f70a1b395bb693faa7aa91b38af62"
 
 [[files]]
 file = "mods/journeymap.pw.toml"
@@ -1930,10 +1334,6 @@ hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
 metafile = true
 
 [[files]]
-file = "mods/refinedstorage-1.12.4.jar"
-hash = "afda49a01e5ac8e20706032eb80699cc3b50d3b346478324ead62503cb774acd"
-
-[[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "6174bb14ac82ddbd83df42d91ab413960a2d173186b16bad918e378a49494143"
 metafile = true
@@ -1974,6 +1374,11 @@ hash = "dda6611c8d708c0a6733902bfba299024ea33d4c42953733b3377df2e98853a8"
 metafile = true
 
 [[files]]
+file = "mods/softer-pastels.pw.toml"
+hash = "aa2ff8f87a1543f0bfd61081983cb9190ddc8d195971a6e1fe3875ca0084cdf1"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "658a905d1180cc7d56a7418d1d5017d8c268afebdc0b26df5bf66182c5dac31a"
 metafile = true
@@ -1987,18 +1392,6 @@ metafile = true
 file = "mods/sophisticated-storage.pw.toml"
 hash = "8fcf0ed23c08278f75837c7539a8be00aee764c091f8d7d229b1d04236bfe355"
 metafile = true
-
-[[files]]
-file = "mods/sophisticatedbackpacks-1.20.1-3.20.11.1115.jar"
-hash = "6c85ae22f2f152ab0a15b0515dfc036689b084de97d2818b4ae7082ce739bacd"
-
-[[files]]
-file = "mods/sophisticatedcore-1.20.1-0.6.33.711.jar"
-hash = "41a3d57a8d341a570372d6d788558bef85ab836fb95a190c992977370689c2be"
-
-[[files]]
-file = "mods/sophisticatedstorage-1.20.1-0.10.44.904.jar"
-hash = "6f60a0b7ceb815b7d5b83bc133a678770bce91b12f54c2616f5dd0e923eaeecf"
 
 [[files]]
 file = "mods/spark.pw.toml"
@@ -2016,17 +1409,9 @@ hash = "c0fdbfb5995309ae73fe8c22c5d4921a9e08af1f74aed3ac5a6096e0b919ddbe"
 metafile = true
 
 [[files]]
-file = "mods/surveyor-0.6.23+1.20.jar"
-hash = "ed8f7a1a1b69e435fbfe7280f42868c7918f6b684af40a0e93eaf0bd0e471cf1"
-
-[[files]]
 file = "mods/surveyor.pw.toml"
 hash = "8057ab65e227873389ae3ce246fe3e39bf39213b58c7170bdb6801899ea280ee"
 metafile = true
-
-[[files]]
-file = "mods/surveystones-1.3.1+1.20.jar"
-hash = "4b379e42f38f5998e72da0f0a172a385508f221e038f9a8a6b0c8623a97a6767"
 
 [[files]]
 file = "mods/surveystones.pw.toml"
@@ -2049,10 +1434,6 @@ hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
 
 [[files]]
-file = "mods/theoneprobe-1.20.1-10.0.2.jar"
-hash = "8f5a775fcbf147e53a40fce2bf4fce387a57d83c72245a1887e622a365034b2f"
-
-[[files]]
 file = "mods/toadlib.pw.toml"
 hash = "12c31a69f62fcf7bfbb7b6f4257cf8dab8560a7bd279ed9df5e1ea9068e21558"
 metafile = true
@@ -2073,10 +1454,6 @@ hash = "004b101eae293d71cae4b8d5651f418fa4a8c09008204c73221465fa52dfda05"
 metafile = true
 
 [[files]]
-file = "mods/voicechat-forge-1.20.1-2.5.23.jar"
-hash = "b645ec63731af373ef11c16a204e3dd0623436957d35e49d9b8dc95838b1c724"
-
-[[files]]
 file = "mods/waterframes.pw.toml"
 hash = "8a3ddb4f76fef80c374185984a02884c177a95d04f34217be0e5d6d26440d987"
 metafile = true
@@ -2087,10 +1464,6 @@ hash = "8d69c3350981295defbda72ea67b66467ae6b804043077df4a95ca3ad8271eb4"
 metafile = true
 
 [[files]]
-file = "mods/waystones-forge-1.20-14.1.5.jar"
-hash = "3b5cd570a1c2d330e8e6292644252dd4c104b8e8cbbc6741f9a548c3ef2d7b0a"
-
-[[files]]
 file = "mods/waystones.pw.toml"
 hash = "f07e6b80b0cf2237210c2e3789074f891d48ddc97fe89c735bbcf747eeae1eb9"
 metafile = true
@@ -2099,10 +1472,6 @@ metafile = true
 file = "mods/wi-zoom.pw.toml"
 hash = "96f395c71e727cd170cc85473fd26500b9e6c8555fa9b86f645746860938e6b7"
 metafile = true
-
-[[files]]
-file = "mods/wood_you_dye-1.1.0+1.20.1-forge.jar"
-hash = "32af7050876ae7e8bcbcca183f3462e3e48d9a861f457a1f85ad6569107078d6"
 
 [[files]]
 file = "mods/wyd.pw.toml"
@@ -2181,8 +1550,3 @@ hash = "181807f2abcf73d26a88b74a1f742fb03a0b29f1988eee08d6feaf9015ee503e"
 [[files]]
 file = "servers.dat"
 hash = "f1b90f0a20a6e1d33b6f1b5e6bd807e155618b41b909ce220f39b790fa8ffe46"
-
-[[files]]
-file = "mods/softer-pastels.pw.toml"
-hash = "aa2ff8f87a1543f0bfd61081983cb9190ddc8d195971a6e1fe3875ca0084cdf1"
-metafile = true
