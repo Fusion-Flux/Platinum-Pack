@@ -919,8 +919,13 @@ hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
+file = "mods/cobblemon-mass-outbreaks.pw.toml"
+hash = "1f5bd76a966e4de7b965dff9466ba1f6fb50d86aa6e343768f9811f39b0c4f3d"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
-hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
+hash = "541ed5025e526f075984bbf7653b18724d0bf254dcc5d1464e60dd5bb82f7651"
 metafile = true
 
 [[files]]
