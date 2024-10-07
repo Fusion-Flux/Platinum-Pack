@@ -10,7 +10,7 @@ hash = "e2c3f3f04727cd8388f4bd3b3e052ae94860b60d5c3e5f981597dfaae992406e"
 
 [versions]
 minecraft = "1.20.1"
-neoforge = "1.20.1-47.1.106"
+forge = "1.20.1-47.3.11"
 
 [options]
 acceptable-game-versions = ["fabric"]
