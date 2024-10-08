@@ -814,6 +814,11 @@ hash = "fbf48d388c506beb1f8562745115dc67b5ca346d0f9872d7c0cfb439bf2d8a7b"
 metafile = true
 
 [[files]]
+file = "mods/air-hop.pw.toml"
+hash = "89e113a73459b653d6f1867d63c064bf079f9aea26dcad8028e4c386c312698f"
+metafile = true
+
+[[files]]
 file = "mods/antique-atlas-4.pw.toml"
 hash = "83f1f089a96f0d89743702337cf8064ec676e7e4b9c19019530418785a0711d1"
 metafile = true
@@ -1184,6 +1189,11 @@ hash = "d63d6a68c8389cbc48ec3fe181d5b465d8fbd829923618951b00e60c97f78500"
 metafile = true
 
 [[files]]
+file = "mods/inventory-pets.pw.toml"
+hash = "37f77b805d9a82e8052e009884019f9277c40a9241166d994f68163fd5d40b85"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "923ccb169b6edccab1a83ec0879d08d53463c4865c58d901bc59bda862dac74d"
 metafile = true
@@ -1236,6 +1246,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
+metafile = true
+
+[[files]]
+file = "mods/lucky-block.pw.toml"
+hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
 metafile = true
 
 [[files]]
@@ -1351,6 +1366,11 @@ metafile = true
 [[files]]
 file = "mods/productivebees.pw.toml"
 hash = "08d286c82ca28323437d5dc8c6cc3d38ca6fcf8a66f56cb7e0005b639c90bad7"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "1f75e91fee61c8a8bb122e627e1c09967ff5f31ada805ce3f32bbc7e80d0ea86"
 metafile = true
 
 [[files]]
@@ -1481,6 +1501,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "38a1d3908304307d45a09756ededd6f6c47c28fa9f46a62226cd38a6aec9e509"
 metafile = true
 
 [[files]]
