@@ -820,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/apotheosis-delight.pw.toml"
-hash = "14603130e613c6c9cdb5f451cd8c878025349c8ad64951560d3b508c531a3231"
+hash = "4b8188d7fdb9f0e2be36f33f0b5ff637478a91ac53570db7634b531c80f32616"
 metafile = true
 
 [[files]]
@@ -1085,7 +1085,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "dec4a848fbbd45662a533444aa0749c230deb718b5117ceb279963e91ac78f85"
+hash = "e57fdbd46e93be972ecdb79212804f32a8337eb830eaa0decd2b19496618deec"
 metafile = true
 
 [[files]]

@@ -3,11 +3,11 @@ filename = "apotheosisdelight-1.0.1-1.20.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f257ce12ed732481d39f5131f7041d623710ea98"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Isgtel6o/versions/1czQH6ir/apotheosisdelight-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "7dc72f141125ea10bffc879338c42ce6e1be5d870efcff56c4e91eb878f683b71e3cf461a004037c0d146423a06c92be5e3547db2ea185b8e14cf0511fd0c1d1"
 
 [update]
-[update.curseforge]
-file-id = 5729502
-project-id = 1099761
+[update.modrinth]
+mod-id = "Isgtel6o"
+version = "1czQH6ir"
