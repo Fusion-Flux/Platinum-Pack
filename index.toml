@@ -914,6 +914,11 @@ hash = "2d88c8932f077d343b4df477302cab4b66e912b73509c17781ea786c28c08461"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
@@ -990,7 +995,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
+hash = "0d2e8fd33b416011cb2d4f7b87384d541e1a56a09e5ebc4858682a546d934917"
 metafile = true
 
 [[files]]
@@ -1306,6 +1311,16 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+hash = "63cf76f3e4f95f2b70fd20094353f7ae547d663f0553c8bb6962e5588a11b1a2"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+hash = "deb6a86a338bf791cb972b3371b6a58581f1f5cb3442d5b81f927459a0baeb85"
 metafile = true
 
 [[files]]
