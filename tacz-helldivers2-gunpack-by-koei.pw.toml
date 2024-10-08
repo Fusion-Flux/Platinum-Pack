@@ -1,0 +1,13 @@
+name = "[TaCZ]Hell Divers2 Gun Pack"
+filename = "HellDiver2 Gunpack-v0.0.9-0811-hotfix2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d85c50b8c739d7e9e1b46e5d30a4860266cb8e50"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5618258
+project-id = 1031134

@@ -864,6 +864,11 @@ hash = "4127d964b5bc688b7a80ba254c1b9af6bdb2968a95824e52e0f9f4e361a8b47d"
 metafile = true
 
 [[files]]
+file = "mods/automobility.pw.toml"
+hash = "5e3ff30d77ab34aba80c887c01838d408a20e4730726c98feffbf15c568a7b5b"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f6da82f771d83d63282ad87dbf4c22f4aa75b5982adf015d3290701bb56d6414"
 metafile = true
@@ -1219,6 +1224,11 @@ hash = "c38e384e4199125f65d6251d3a27df446dbf53ea5be64e47faff1741765f5380"
 metafile = true
 
 [[files]]
+file = "mods/lesraisins-weapon.pw.toml"
+hash = "c35dfc10bb0ee65b1fedf8b2237ee4709d5fdfb728d2f232803491d8c17ad0ee"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-beachparty.pw.toml"
 hash = "57e747ef05489b06c25970faa2bdc592f7c86a6c4b6a582a607cfe8a8241d8fd"
 metafile = true
@@ -1505,7 +1515,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "38a1d3908304307d45a09756ededd6f6c47c28fa9f46a62226cd38a6aec9e509"
+hash = "a4b08e52d3a6f5ed9fa1b3124b64d1d9b29845d80da284474654a719739ed5c7"
 metafile = true
 
 [[files]]
@@ -1625,3 +1635,38 @@ hash = "a660a080e192ac54f4c9b342f67fda2bf3f36824cc0c42bd6d0cc8262ff0e47d"
 [[files]]
 file = "servers.dat"
 hash = "f1b90f0a20a6e1d33b6f1b5e6bd807e155618b41b909ce220f39b790fa8ffe46"
+
+[[files]]
+file = "tacz-ariptea-pack-by-astrallin.pw.toml"
+hash = "70711bbcf558f65d9e1ca918647dcd07692834013288c9e8982e03821d8543a2"
+metafile = true
+
+[[files]]
+file = "tacz-emx-arms-gunpack.pw.toml"
+hash = "369ffea31d58d9e92257033b2dee62f0dc1a9d20ae8b1bf1755cf415e2cc1eb5"
+metafile = true
+
+[[files]]
+file = "tacz-gucci-attachments-by-koei.pw.toml"
+hash = "c8a0e4f6bc710e55843da1f4d9cf9d53e6247b4ddadb89c9f94671f6931585a7"
+metafile = true
+
+[[files]]
+file = "tacz-helldivers2-gunpack-by-koei.pw.toml"
+hash = "0ca8420c02be0b460c5ee92b6cc569756adbc0735055b7a766bb019be5b177c7"
+metafile = true
+
+[[files]]
+file = "tacz-the-division-gunpack.pw.toml"
+hash = "161f24666130f6f62e09362587a7364e1c2519dabc25e33889ed66b1ff041dbd"
+metafile = true
+
+[[files]]
+file = "tacz-tti-gunpack-by-koei.pw.toml"
+hash = "9cbc432343f3398b4c47498f4c0fe80920cc5a24fe49d24d6736d2f296a8ce8f"
+metafile = true
+
+[[files]]
+file = "tacz-xiaomantou-gunpack.pw.toml"
+hash = "e03244fdc25dd438d90922d774f2de56682e5724bbe351d2b490aa2aa68e9152"
+metafile = true

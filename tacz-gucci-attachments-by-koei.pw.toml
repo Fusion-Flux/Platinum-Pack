@@ -1,0 +1,13 @@
+name = "[TaCZ]Gucci Attachments"
+filename = "Gucci Attachments-v0.1.1.r-0607-152243.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb2cd8edf671a98732d456a52fb8684f1b839f48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5405533
+project-id = 1031151

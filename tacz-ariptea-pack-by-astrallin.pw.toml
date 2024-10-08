@@ -1,0 +1,13 @@
+name = "[TaCZ] A'RIP&TEA Pack"
+filename = "A'RIPTEA_ver.1.0.2_hotfix1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5dfd27ba7e9e8eca891833be0fb3bdbc9a370d71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5788063
+project-id = 1033596

@@ -1,0 +1,13 @@
+name = "[TaCZ]TTI Gun Pack"
+filename = "TTI_Gunpack-v0.1.1-0607-154832.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5be8f682e71f7cbdc7f0e5e6ee2bae76c254ab29"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5405555
+project-id = 1031166

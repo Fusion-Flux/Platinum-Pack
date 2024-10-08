@@ -1,0 +1,13 @@
+name = "Timeless and Classics Guns: LesRaisins Append Pack"
+filename = "lradd-1.20.1-0.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vWxaCnwP/versions/GQ5cUgbO/lradd-1.20.1-0.2.3.jar"
+hash-format = "sha512"
+hash = "fa192a19da84db207aa5e8b8189783cd600a3aaba501da8339f3a199fa46cb5c90e03feafc5f023dbc33df6d3573392d1ec8cbd223ae33ed6d2fa08e1c7a167b"
+
+[update]
+[update.modrinth]
+mod-id = "vWxaCnwP"
+version = "GQ5cUgbO"

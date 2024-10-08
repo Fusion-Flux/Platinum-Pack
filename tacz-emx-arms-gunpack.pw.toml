@@ -1,0 +1,13 @@
+name = "[TaCZ]EMX-Arms gunpack"
+filename = "[needTacz1.0.3]EMX-Arms-Gunpack ver0.5.5.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f6ef1c3f1340bdcf827c7c581698d30a3c73daa2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5742774
+project-id = 1038650
