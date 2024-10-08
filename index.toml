@@ -850,7 +850,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "8a27a482bf7dbf9b8a96fe9a3e8bf8e08ca1d376c6cf13bccf49f0d5191d56fa"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -921,6 +921,16 @@ metafile = true
 [[files]]
 file = "mods/cobblemon-mass-outbreaks.pw.toml"
 hash = "1f5bd76a966e4de7b965dff9466ba1f6fb50d86aa6e343768f9811f39b0c4f3d"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-myths-and-legends-addon.pw.toml"
+hash = "83d7b8c0db8cfc188686e127dd828b6c96f4f7cf65c8828ab098f84eccc757d6"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-spawn-notification.pw.toml"
+hash = "6fc12642cf9f3dc3ec906d5fbbb0a3b4e35780bc2652adbb91c45b4c423385d3"
 metafile = true
 
 [[files]]
@@ -1170,7 +1180,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
