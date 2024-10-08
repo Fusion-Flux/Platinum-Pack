@@ -8937,6 +8937,11 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
+metafile = true
+
+[[files]]
 file = "mods/athena.pw.toml"
 hash = "9638d8a308563842fd989970919a51f37ed1bcc82372bff47fc5a5c2e6de738e"
 metafile = true
@@ -9008,7 +9013,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -9098,7 +9103,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "d41c8557243ddcda7d0193ac905d4209ebc4753273b967e6c31ec6874dc0a58c"
+hash = "0fd0d294ce7414d112dbfd66ff6ee4e7d06c1c8650d0d521a8d39669604b56d8"
 metafile = true
 
 [[files]]
@@ -9137,11 +9142,6 @@ hash = "3df51d41d2000684937f627d43d9e98ffdbae5cb86c03ceaa13f4ebfa1e0a317"
 metafile = true
 
 [[files]]
-file = "mods/efks-triple-jump.pw.toml"
-hash = "22593d38d45d37ce909b6bea9522d6df18b1088b00b207d580e16c4f66ef6d7e"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true
@@ -9163,7 +9163,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "983e6d4d488faca859e3abb13774b823d26a6b7a20d2dff13bfa4f3426cf5689"
+hash = "15781779a01a0a867d0a5451c0006e0d1ac23095b4cba7cf9eb678bdeb8341ba"
 metafile = true
 
 [[files]]
@@ -9567,6 +9567,10 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/stupidfuckingjumpmod-1.0.0.jar"
+hash = "d997030f26edfdf237344e6dd0168ca030988b95463065cc674d820403d0d886"
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -9722,4 +9726,4 @@ hash = "a660a080e192ac54f4c9b342f67fda2bf3f36824cc0c42bd6d0cc8262ff0e47d"
 
 [[files]]
 file = "servers.dat"
-hash = "f1b90f0a20a6e1d33b6f1b5e6bd807e155618b41b909ce220f39b790fa8ffe46"
+hash = "8254c0140c4dfd8e0252f2c7df1e450d77136251260f08b7038fbbca9662f279"
