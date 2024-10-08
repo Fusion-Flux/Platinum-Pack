@@ -1019,6 +1019,16 @@ hash = "14d7b9f524bb6b8c487c8713858e83495e7829d6d73531310249c0f2124a9ffc"
 metafile = true
 
 [[files]]
+file = "mods/cyclic-delight.pw.toml"
+hash = "b133cd1c5b82013c7d1ad2aa331934322fd23f1cb9d1b4ebc6481bb3bbbaf991"
+metafile = true
+
+[[files]]
+file = "mods/cyclic.pw.toml"
+hash = "dfa6097dfac0fc3baa8cba404dd8f364e6e6910d3ae3de2016d20a2cf84818b3"
+metafile = true
+
+[[files]]
 file = "mods/delightful-burgers.pw.toml"
 hash = "1a3559e5a6e2a9a51b226a5b0e90aa79fd2eb3a8b8fc043bde6f074c0e0d8a33"
 metafile = true
@@ -1111,6 +1121,11 @@ metafile = true
 [[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/flib.pw.toml"
+hash = "4a5b4a1d085ef0ad0d77e6c211e793f2d5cbe34e8ead3f5e7d2d089ceca207a0"
 metafile = true
 
 [[files]]

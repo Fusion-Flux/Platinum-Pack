@@ -1,0 +1,13 @@
+name = "Cyclic Delight"
+filename = "cyclicdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JCea45iF/versions/n0alyJMZ/cyclicdelight-1.0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "a494a42691866b177722ca9f0e87b3c4f2103c8d39645ce3ff77ca87ed8d5dee8c2ddcefa33a670d237dd0eb3cee646712179594eadd1223d98105b620588dea"
+
+[update]
+[update.modrinth]
+mod-id = "JCea45iF"
+version = "n0alyJMZ"
