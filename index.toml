@@ -9636,11 +9636,6 @@ hash = "004b101eae293d71cae4b8d5651f418fa4a8c09008204c73221465fa52dfda05"
 metafile = true
 
 [[files]]
-file = "mods/waterframes.pw.toml"
-hash = "8a3ddb4f76fef80c374185984a02884c177a95d04f34217be0e5d6d26440d987"
-metafile = true
-
-[[files]]
 file = "mods/watermedia.pw.toml"
 hash = "8d69c3350981295defbda72ea67b66467ae6b804043077df4a95ca3ad8271eb4"
 metafile = true
