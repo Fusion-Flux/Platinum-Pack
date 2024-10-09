@@ -1,0 +1,13 @@
+name = "Squake Reforged"
+filename = "squakereforged-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "db4000458e8a4865e8827849ab0c9a97d73bad03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5763195
+project-id = 1100654

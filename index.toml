@@ -9552,6 +9552,11 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/squake-reforged.pw.toml"
+hash = "f6f1255731cfea06c7a4022c141e6f2e909fe1732e2de1fea8a7915fabbb126d"
+metafile = true
+
+[[files]]
 file = "mods/stupidfuckingjumpmod-1.0.0.jar"
 hash = "d997030f26edfdf237344e6dd0168ca030988b95463065cc674d820403d0d886"
 
