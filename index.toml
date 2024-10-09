@@ -9127,11 +9127,6 @@ hash = "338c707663cb52f65b62f9aed801502cd047890e375a45a553d7750d040e260a"
 metafile = true
 
 [[files]]
-file = "mods/do-api.pw.toml"
-hash = "8f594551016c01eca3ef1700837f98a0b73b69f6244b7f27c87a6a88c28310c8"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2517a20ed69efca449f23a448af7cd8079bf68e47f22fe95cc58cb88a2722d1d"
 metafile = true
@@ -9322,28 +9317,8 @@ hash = "c35dfc10bb0ee65b1fedf8b2237ee4709d5fdfb728d2f232803491d8c17ad0ee"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-beachparty.pw.toml"
-hash = "57e747ef05489b06c25970faa2bdc592f7c86a6c4b6a582a607cfe8a8241d8fd"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-brewery.pw.toml"
-hash = "6432819826de08392ee4fb077aceb79c62a909b9d1dab33e55fa9aa682e9ecd9"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-herbal-brews.pw.toml"
 hash = "a09ade76b915c330f6f6de541b6ad038a1b66ef3f69e19395ceabdc5c87d573e"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-nethervinery.pw.toml"
-hash = "dcf5763010a5442d62d1a61fdcec326594f788b237db3ecc53f0502ca1f737f8"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-vinery.pw.toml"
-hash = "3f7ac811c4894608f72b5e12c81b13fc0d3b55ace7b9c7902e132550895584fc"
 metafile = true
 
 [[files]]
@@ -9354,6 +9329,11 @@ metafile = true
 [[files]]
 file = "mods/lucky-block.pw.toml"
 hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furniture.pw.toml"
+hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
 metafile = true
 
 [[files]]
@@ -9609,6 +9589,10 @@ metafile = true
 file = "mods/the-twilight-forest.pw.toml"
 hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
 metafile = true
+
+[[files]]
+file = "mods/the_dirty_stuff-3.0-forge-1.20.1.jar"
+hash = "e1040cb59bd9be80598f3a832a3401eb1e8f440a2d2fe0a8d8b501b41b94fa30"
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
