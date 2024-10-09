@@ -9262,6 +9262,11 @@ hash = "68d9e31776093abc10996a7380ad980e41eccbec4b201b9f0dcbb9012d8ba2d8"
 metafile = true
 
 [[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
+metafile = true
+
+[[files]]
 file = "mods/icarae-origin.pw.toml"
 hash = "2b5f5fe9199ce737739e41f9ea026d3b9c8cf9489ade8f1dba533dff003139a2"
 metafile = true
@@ -9625,8 +9630,13 @@ hash = "004b101eae293d71cae4b8d5651f418fa4a8c09008204c73221465fa52dfda05"
 metafile = true
 
 [[files]]
+file = "mods/waterframes.pw.toml"
+hash = "8a3ddb4f76fef80c374185984a02884c177a95d04f34217be0e5d6d26440d987"
+metafile = true
+
+[[files]]
 file = "mods/watermedia.pw.toml"
-hash = "8d69c3350981295defbda72ea67b66467ae6b804043077df4a95ca3ad8271eb4"
+hash = "ae40e733f9fd26a49ec1bdd1fe4e183793757cb3cb4224b3d93ac0ce9a1cfbaf"
 metafile = true
 
 [[files]]
