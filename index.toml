@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/squakereforged-common.toml"
+hash = "0e23d4d6fe097966ac2fdc6bfedc3505716091d994282562d4bee5422daee24b"
+
+[[files]]
 file = "config/tacz/backup/tacz_default_gun/backup-20241007-231219-37c54746b2905dc3e488049a59f19ae7.zip"
 hash = "63aafed7fcd9c15176768dbbc644bed517be0917ce1a3ba49bad66eba5aca460"
 
@@ -9002,6 +9006,11 @@ hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
 
 [[files]]
+file = "mods/brandons-core.pw.toml"
+hash = "dcfcb5a0d4132f1baa0f66e824531d1bbcb77c1b7ca2b5d3497514e233564dd8"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -9022,23 +9031,8 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "1f5bd76a966e4de7b965dff9466ba1f6fb50d86aa6e343768f9811f39b0c4f3d"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-myths-and-legends-addon.pw.toml"
-hash = "83d7b8c0db8cfc188686e127dd828b6c96f4f7cf65c8828ab098f84eccc757d6"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon-spawn-notification.pw.toml"
-hash = "6fc12642cf9f3dc3ec906d5fbbb0a3b4e35780bc2652adbb91c45b4c423385d3"
-metafile = true
-
-[[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "541ed5025e526f075984bbf7653b18724d0bf254dcc5d1464e60dd5bb82f7651"
+file = "mods/codechicken-lib-1-8.pw.toml"
+hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
@@ -9124,6 +9118,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-sandwiches.pw.toml"
 hash = "338c707663cb52f65b62f9aed801502cd047890e375a45a553d7750d040e260a"
+metafile = true
+
+[[files]]
+file = "mods/draconic-evolution.pw.toml"
+hash = "a836a976644e2a3935e0980a85188ce2c484c99733879965ba6cb2edf2211c78"
 metafile = true
 
 [[files]]
@@ -9252,23 +9251,8 @@ hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
 metafile = true
 
 [[files]]
-file = "mods/gravelmon.pw.toml"
-hash = "7fdfaa9e3d2583eab466c209f7efc4bf49ba739af5643c9a540b24a4b6ae61af"
-metafile = true
-
-[[files]]
-file = "mods/gravels-extended-battles.pw.toml"
-hash = "68d9e31776093abc10996a7380ad980e41eccbec4b201b9f0dcbb9012d8ba2d8"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
-metafile = true
-
-[[files]]
-file = "mods/icarae-origin.pw.toml"
-hash = "2b5f5fe9199ce737739e41f9ea026d3b9c8cf9489ade8f1dba533dff003139a2"
 metafile = true
 
 [[files]]
@@ -9329,11 +9313,6 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
-metafile = true
-
-[[files]]
-file = "mods/lucky-block.pw.toml"
-hash = "ecbf67162e047b2b2138ec85129abc5321abcd61f5fa4a96322bdfe151f50dfb"
 metafile = true
 
 [[files]]
@@ -9409,11 +9388,6 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
-metafile = true
-
-[[files]]
-file = "mods/origins-forge.pw.toml"
-hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
 metafile = true
 
 [[files]]
