@@ -9441,11 +9441,6 @@ hash = "db7c44aa9d75c912d5d1e0602e25ad75e78aad12332ad74f9e1d87d957e92999"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
-hash = "cb3fd25109b6689226acd9935a8c2b3ce536316892c37e25cfcf5422e4488cd6"
-metafile = true
-
-[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
 metafile = true
