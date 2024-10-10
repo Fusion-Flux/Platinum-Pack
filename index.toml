@@ -8982,7 +8982,7 @@ metafile = true
 
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
-hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
+hash = "70ee5b8c58a4618fa0d94034c0b1422ef519af47e6f8d1f469e952d483d8f800"
 metafile = true
 
 [[files]]
@@ -9401,6 +9401,11 @@ hash = "3a08207e88e4e4b0e2b7e5856800855fa0802a355045689293cb559606d33d95"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
+hash = "f30bda2d8f95552a1b7254486925b5723d31eeec2214331d6253bab20175924c"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "95ac20b32e35947fdefa1159f5e50afefee90e76a67775b819344f7ccac51694"
 metafile = true
@@ -9416,13 +9421,28 @@ hash = "447e33b5d0417c5ff551e56760ffe08ab83cb4272627f727539fe0e47e2a781d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-biomes-o-plenty.pw.toml"
+hash = "db7c44aa9d75c912d5d1e0602e25ad75e78aad12332ad74f9e1d87d957e92999"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
-hash = "4494c0ca2e7bcf5dc0193e4dc1aa37a0cb868ed40b002b8729bb16658b423dfb"
+hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-furnitures-biomes-o-plenty.pw.toml"
+hash = "c34df1a40200f67fda84bf147419ae2e50a099b3e8b98f4dcc458f1a83ab58b6"
 metafile = true
 
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-biomes-o-plenty.pw.toml"
+hash = "a7ed81c7d959128ca4feb77088a0e7488e0ff06048a3aa839735a76d4a744907"
 metafile = true
 
 [[files]]
