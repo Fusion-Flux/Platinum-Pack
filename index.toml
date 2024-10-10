@@ -9406,11 +9406,6 @@ hash = "3a08207e88e4e4b0e2b7e5856800855fa0802a355045689293cb559606d33d95"
 metafile = true
 
 [[files]]
-file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
-hash = "f30bda2d8f95552a1b7254486925b5723d31eeec2214331d6253bab20175924c"
-metafile = true
-
-[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "95ac20b32e35947fdefa1159f5e50afefee90e76a67775b819344f7ccac51694"
 metafile = true
@@ -9426,11 +9421,6 @@ hash = "447e33b5d0417c5ff551e56760ffe08ab83cb4272627f727539fe0e47e2a781d"
 metafile = true
 
 [[files]]
-file = "mods/macaws-fences-biomes-o-plenty.pw.toml"
-hash = "db7c44aa9d75c912d5d1e0602e25ad75e78aad12332ad74f9e1d87d957e92999"
-metafile = true
-
-[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
 metafile = true
@@ -9443,11 +9433,6 @@ metafile = true
 [[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
-metafile = true
-
-[[files]]
-file = "mods/macaws-roofs-biomes-o-plenty.pw.toml"
-hash = "a7ed81c7d959128ca4feb77088a0e7488e0ff06048a3aa839735a76d4a744907"
 metafile = true
 
 [[files]]
@@ -9588,6 +9573,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1f75e91fee61c8a8bb122e627e1c09967ff5f31ada805ce3f32bbc7e80d0ea86"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "056c481f39ce13ff8b3fa09fc5dd6b6549676135de8eb890ddc96ad180a4e383"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "105a3cb78f853a00406250e8a5be2cc2a757cdee03b8d933529c96b3bd9be309"
 metafile = true
 
 [[files]]
@@ -9871,6 +9866,11 @@ metafile = true
 [[files]]
 file = "mods/zerocore.pw.toml"
 hash = "ebf991e3897283ce84876112583e18d11eca4125778e619a6738b9fceed76378"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "cb92831ae1333084aee2e0582ad76e074ee902f76939b2e2c4d288b831d27f1a"
 metafile = true
 
 [[files]]
