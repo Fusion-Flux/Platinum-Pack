@@ -1,0 +1,13 @@
+name = "Let's Go Enchanting!"
+filename = "Let's Go Enchanting 1-0-0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/laeDnazk/versions/34YPOnih/Let%27s%20Go%20Enchanting%201-0-0.zip"
+hash-format = "sha512"
+hash = "5a49238cd4960768cd6aa611e3a03fed147148a16886b21338353dc5fc33084c8600ba3d6b5d3517cf8b1c9022b25a4e88ee1f87bca9fee29c5cbc65d489b20e"
+
+[update]
+[update.modrinth]
+mod-id = "laeDnazk"
+version = "34YPOnih"
