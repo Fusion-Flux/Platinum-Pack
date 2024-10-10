@@ -9041,11 +9041,6 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
-file = "mods/cobblemon.pw.toml"
-hash = "0621007244610a61d09b567870101acc836b84bf965ff4ce6538d44140bcbffb"
-metafile = true
-
-[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
