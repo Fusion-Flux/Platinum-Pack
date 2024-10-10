@@ -9,6 +9,14 @@ file = "config/tacz/backup/tacz_default_gun/backup-20241007-231219-37c54746b2905
 hash = "63aafed7fcd9c15176768dbbc644bed517be0917ce1a3ba49bad66eba5aca460"
 
 [[files]]
+file = "config/tacz/custom/Black_Gold_PBR_Update.zip"
+hash = "2fb6126a4326f132f22556c595b59c1b70b1a9511d4b0a8a82e48a37cebd5566"
+
+[[files]]
+file = "config/tacz/custom/Create Armorer-v1.0.0.zip"
+hash = "08c6864498b85cdcfb2bbcab5baab7ee4ba113e2cb631fd912f792dc6ef73591"
+
+[[files]]
 file = "config/tacz/custom/lradd_default_gun/lradd/ammo/display/2mm_ec_display.json"
 hash = "463b1982806ace6bde072d5840941bc79d2dea19a97a4ef75fd7dfed374a1d9d"
 
@@ -2947,6 +2955,11 @@ hash = "53b57367997b27eae4e3d123a4c407d56b862dad7bc7489ad1d5076064f3ac6f"
 [[files]]
 file = "config/tacz/custom/tacz-ariptea-pack-by-astrallin.pw.toml"
 hash = "70711bbcf558f65d9e1ca918647dcd07692834013288c9e8982e03821d8543a2"
+metafile = true
+
+[[files]]
+file = "config/tacz/custom/tacz-blue-archive-super-gun-pack.pw.toml"
+hash = "333c689f3c6632fbe5c79fc29afa664a5586abafe110abbd7a39c77039669b0e"
 metafile = true
 
 [[files]]
@@ -8982,7 +8995,7 @@ metafile = true
 
 [[files]]
 file = "mods/blood-magic.pw.toml"
-hash = "832ce23a285dd86387eb7950f6159cc0ec0cdda36dad4b7036c35a99001b6943"
+hash = "4c6233f697779c1eb83616e96216be90cd7c64054f2310185fdcd2158994f38c"
 metafile = true
 
 [[files]]
@@ -9103,6 +9116,11 @@ metafile = true
 [[files]]
 file = "mods/create-northstar.pw.toml"
 hash = "6f3776e918248436a05045c383dbc5bfda9fd22a11fdae00024337a8e1148135"
+metafile = true
+
+[[files]]
+file = "mods/create-optical.pw.toml"
+hash = "4efcab64f2bcd6dd14d38474f785b29f7af0bac07a7d4c0f6fe3ed1bdfd94048"
 metafile = true
 
 [[files]]
@@ -9321,11 +9339,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/grappling-hook-mod.pw.toml"
-hash = "0ae8ea8f2680deb033b40b89c90bf3921bd37224ec6f8c3ec2f326553619f74f"
-metafile = true
-
-[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
@@ -9393,11 +9406,6 @@ metafile = true
 [[files]]
 file = "mods/lesraisins-weapon.pw.toml"
 hash = "c35dfc10bb0ee65b1fedf8b2237ee4709d5fdfb728d2f232803491d8c17ad0ee"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-herbal-brews.pw.toml"
-hash = "a09ade76b915c330f6f6de541b6ad038a1b66ef3f69e19395ceabdc5c87d573e"
 metafile = true
 
 [[files]]
@@ -9886,11 +9894,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "e35c94a95c9f22c4125091be30c67784287b236747137ec7b7844f0cbd800eb6"
-metafile = true
-
-[[files]]
-file = "mods/yuushya-townscape.pw.toml"
-hash = "c8bbd2d0e903167c23d8cc9b6eb8b728c43a477e13d847ce2b483837c3478050"
 metafile = true
 
 [[files]]

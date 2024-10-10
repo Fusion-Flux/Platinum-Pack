@@ -1,0 +1,13 @@
+name = "[TaCZ]Blue Archive super gun pack"
+filename = "bluearchive.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ad3ac664a9d7bb6ca13527404df7f31e071cb43"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5739882
+project-id = 1095722
