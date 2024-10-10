@@ -9076,6 +9076,11 @@ hash = "8da5c63b16dd1a0718043ac7c6307063ef4c736ecb83cd808a6bd232a6eacabe"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "e88092f02b88f3dfac3c80de17ed0b0bbe3de9596a28a8d780227e7151ea0578"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "84b3925f330a2fdd9c39b57dd3dc8d3c83e5f2a46aea6f6cf940ac95e0df59e6"
 metafile = true
@@ -9406,6 +9411,16 @@ hash = "3a08207e88e4e4b0e2b7e5856800855fa0802a355045689293cb559606d33d95"
 metafile = true
 
 [[files]]
+file = "mods/macaws-bridges-biome-o-plenty.pw.toml"
+hash = "f30bda2d8f95552a1b7254486925b5723d31eeec2214331d6253bab20175924c"
+metafile = true
+
+[[files]]
+file = "mods/macaws-bridges-oh-the-biomes-youll-go.pw.toml"
+hash = "8228f852a8b5b97dbd46b9fb978bb62de14d42b8561897feb5bb4b566ee9c396"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "95ac20b32e35947fdefa1159f5e50afefee90e76a67775b819344f7ccac51694"
 metafile = true
@@ -9421,6 +9436,16 @@ hash = "447e33b5d0417c5ff551e56760ffe08ab83cb4272627f727539fe0e47e2a781d"
 metafile = true
 
 [[files]]
+file = "mods/macaws-fences-biomes-o-plenty.pw.toml"
+hash = "db7c44aa9d75c912d5d1e0602e25ad75e78aad12332ad74f9e1d87d957e92999"
+metafile = true
+
+[[files]]
+file = "mods/macaws-fences-oh-the-biomes-youll-go.pw.toml"
+hash = "cb3fd25109b6689226acd9935a8c2b3ce536316892c37e25cfcf5422e4488cd6"
+metafile = true
+
+[[files]]
 file = "mods/macaws-furniture.pw.toml"
 hash = "454c8dd01b9f5e9b9288f37230dd0e38b7a2bba8d14bf4adce738185626191bd"
 metafile = true
@@ -9431,8 +9456,23 @@ hash = "c34df1a40200f67fda84bf147419ae2e50a099b3e8b98f4dcc458f1a83ab58b6"
 metafile = true
 
 [[files]]
+file = "mods/macaws-furnitures-oh-the-biomes-youll-go.pw.toml"
+hash = "abbce47f31f91a438d17d2e45b936ffc05f709b2d5e7a49d3a19869e346db434"
+metafile = true
+
+[[files]]
 file = "mods/macaws-lights-and-lamps.pw.toml"
 hash = "df562b78542f19d3855a65bc9790662bbeaaed52ebd491a9ebce67882b9d537a"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-biomes-o-plenty.pw.toml"
+hash = "a7ed81c7d959128ca4feb77088a0e7488e0ff06048a3aa839735a76d4a744907"
+metafile = true
+
+[[files]]
+file = "mods/macaws-roofs-oh-the-biomes-youll-go.pw.toml"
+hash = "bc4dfbaab064476faedd8320a9dedbd86dfdd2b7d42e3622045a5e7cf7ddffd7"
 metafile = true
 
 [[files]]
@@ -9528,6 +9568,16 @@ metafile = true
 [[files]]
 file = "mods/oculus.pw.toml"
 hash = "6bb8b0848783cdf7108e499107a4991c2cee2a9240b963d427fa62b0f2a5820e"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-weve-gone.pw.toml"
+hash = "e62db9e92815871ed3de97b1c0bfa1ba53be3311a5ccc8414177f5678475ae58"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "efa22f9eddbe64eb0f1b98f5bdc581ce98f7591e5aad1235f5aa702acf3a8299"
 metafile = true
 
 [[files]]
