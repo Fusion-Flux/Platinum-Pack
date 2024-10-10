@@ -1,0 +1,13 @@
+name = "FNaF's: Build & Decor (Java Edition)"
+filename = "FBD_Snapshot_24w02a_1-20-1_forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/W0OPs1mV/versions/Dw2Whjxm/FBD_Snapshot_24w02a_1-20-1_forge.jar"
+hash-format = "sha512"
+hash = "f044a07006de9fa66a8523b9baf45469d3cd8301922b1a892fbee7b31cd1985c08cf190b3a10f0adf432600e7b0e9b292717faa7e2ed145aa909fa0b211c780c"
+
+[update]
+[update.modrinth]
+mod-id = "W0OPs1mV"
+version = "Dw2Whjxm"

@@ -1,0 +1,13 @@
+name = "Artefacts"
+filename = "Artefacts-3.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0dUe3QU/versions/RMMDJRLU/Artefacts-3.0.zip"
+hash-format = "sha512"
+hash = "a3672f9beaefcc5baa971ebef375805aed71c8e97835413e5e144cf5d53cdd97e1dbcfce72c8a9abf0c9efdb456b162966b69ecdeb35bd8ffa429add6a991154"
+
+[update]
+[update.modrinth]
+mod-id = "P0dUe3QU"
+version = "RMMDJRLU"
