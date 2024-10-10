@@ -8986,11 +8986,6 @@ hash = "70ee5b8c58a4618fa0d94034c0b1422ef519af47e6f8d1f469e952d483d8f800"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
-metafile = true
-
-[[files]]
 file = "mods/botania-delight.pw.toml"
 hash = "1bc88d7413789c17d5191789931c836b6cde80226d9088231943109735dba68d"
 metafile = true
@@ -9488,11 +9483,6 @@ metafile = true
 [[files]]
 file = "mods/man-of-many-planes.pw.toml"
 hash = "b482e3d990ca0981e6a9204436745869b77b4870ea9c5afa95e6301da1d871b6"
-metafile = true
-
-[[files]]
-file = "mods/mavapi.pw.toml"
-hash = "a9a105475f0c90f42e36a5faa0c4fc3ba34691f3b688abc523d195d69fc7498d"
 metafile = true
 
 [[files]]
