@@ -9051,6 +9051,11 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "bfd96e4905f01d0aa1917fe581093afe7ad3b51386be9753ef2371fac24f6c1d"
+metafile = true
+
+[[files]]
 file = "mods/common-network.pw.toml"
 hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
@@ -9153,6 +9158,11 @@ metafile = true
 [[files]]
 file = "mods/diagonal-windows.pw.toml"
 hash = "ff644b8c874d182a494aec5179341a538266ebf11681102530902bda2470628a"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "0b4ba1babc1ac58e27d41b810a2e68f58cfb140b4dfe3fe5da35f8a0fa2ecf59"
 metafile = true
 
 [[files]]
