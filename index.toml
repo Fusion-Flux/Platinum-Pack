@@ -9107,12 +9107,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "8f8754eda6beb02d73da14294026af5fcc2c849fd07ae3b210136492e7fde95b"
+hash = "c976e2cca5f0d6444778d1287c85cb7e8d88efeed2ef7eb69aac384fdee127c4"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "0d2e8fd33b416011cb2d4f7b87384d541e1a56a09e5ebc4858682a546d934917"
+hash = "09e1c473a917228861e773ea0ede50b0327a0ca0143f4cc5144dbcb4f5554a66"
 metafile = true
 
 [[files]]
@@ -9836,6 +9836,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "e35c94a95c9f22c4125091be30c67784287b236747137ec7b7844f0cbd800eb6"
+metafile = true
+
+[[files]]
+file = "mods/yuushya-townscape.pw.toml"
+hash = "c8bbd2d0e903167c23d8cc9b6eb8b728c43a477e13d847ce2b483837c3478050"
 metafile = true
 
 [[files]]
