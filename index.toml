@@ -9339,6 +9339,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-restitched.pw.toml"
+hash = "264e085b17e6b29f95c4d3d19e0534808367c2f995fcbc9ca016b7be9e08a196"
+metafile = true
+
+[[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "b9a7e71472f5f88229bf2f9e214b223b3900052bdc56075906d7a22acf74568c"
 metafile = true
