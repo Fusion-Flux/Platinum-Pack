@@ -13,12 +13,24 @@ file = "config/tacz/backup/tacz_default_gun/backup-20241007-231219-37c54746b2905
 hash = "63aafed7fcd9c15176768dbbc644bed517be0917ce1a3ba49bad66eba5aca460"
 
 [[files]]
+file = "config/tacz/custom/Applied Armorer-1.0.0.zip"
+hash = "20100d2fd72db22045a4d5da53fae6f8144982100abf91be86aa3fbe50128f77"
+
+[[files]]
 file = "config/tacz/custom/Black_Gold_PBR_Update.zip"
 hash = "2fb6126a4326f132f22556c595b59c1b70b1a9511d4b0a8a82e48a37cebd5566"
 
 [[files]]
 file = "config/tacz/custom/Create Armorer-v1.0.0.zip"
 hash = "08c6864498b85cdcfb2bbcab5baab7ee4ba113e2cb631fd912f792dc6ef73591"
+
+[[files]]
+file = "config/tacz/custom/Immersive Armorer-v1.0.3.zip"
+hash = "744f952eb52b7001aac22b042382a9b37bce425d9f1f678611aed27e84a5aec0"
+
+[[files]]
+file = "config/tacz/custom/bluearchive.zip"
+hash = "5a716a03b29bf736fbccc191d4233c9ac77d7e2b9e50513ecfaba0d0bfd7b72e"
 
 [[files]]
 file = "config/tacz/custom/lradd_default_gun/lradd/ammo/display/2mm_ec_display.json"
