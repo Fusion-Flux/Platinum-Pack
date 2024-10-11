@@ -33,6 +33,10 @@ file = "config/tacz/custom/bluearchive.zip"
 hash = "5a716a03b29bf736fbccc191d4233c9ac77d7e2b9e50513ecfaba0d0bfd7b72e"
 
 [[files]]
+file = "config/tacz/custom/knives_and_classics.zip"
+hash = "90456ca78119f4a58ee701db39f24afdfed8f7cfb790c609e9a2963215491b29"
+
+[[files]]
 file = "config/tacz/custom/lradd_default_gun/lradd/ammo/display/2mm_ec_display.json"
 hash = "463b1982806ace6bde072d5840941bc79d2dea19a97a4ef75fd7dfed374a1d9d"
 
