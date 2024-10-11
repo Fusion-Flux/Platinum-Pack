@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/psychedelicraft_client.json"
+hash = "85c13bcb8f846a1d43c467021239ed4b928945512527acddfc1203bd474851c6"
+
+[[files]]
 file = "config/squakereforged-common.toml"
 hash = "0e23d4d6fe097966ac2fdc6bfedc3505716091d994282562d4bee5422daee24b"
 
