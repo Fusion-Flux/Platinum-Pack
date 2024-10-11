@@ -9619,6 +9619,11 @@ hash = "08d286c82ca28323437d5dc8c6cc3d38ca6fcf8a66f56cb7e0005b639c90bad7"
 metafile = true
 
 [[files]]
+file = "mods/psychedelicraft.pw.toml"
+hash = "699774ec51c008358310002bf2639900bc43a7b2ee4f5a934f1115b30bd927ce"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1f75e91fee61c8a8bb122e627e1c09967ff5f31ada805ce3f32bbc7e80d0ea86"
 metafile = true
