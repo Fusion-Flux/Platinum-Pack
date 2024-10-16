@@ -9065,7 +9065,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+hash = "96204145e12506e0625d8b9bfa05aad54e9a62fd511bae39f0d57fcb5e39f4cc"
 metafile = true
 
 [[files]]
@@ -9746,6 +9746,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "1e02fa746f6894dbec05637d7a2b5a05253158d7a9fa329c88c46f30e75339f1"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
 metafile = true
 
 [[files]]
